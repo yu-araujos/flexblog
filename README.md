@@ -1,4 +1,4 @@
-Olá! Esse projeto foi desenvolvido como pessoal para aprimorar meus estudos em CSS.
+Olá! Esse projeto foi desenvolvido para aprimorar meus estudos em CSS.
 
 Nele construí um site usando as técnicas do Flexbox :)
 
